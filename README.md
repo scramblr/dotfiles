@@ -7,4 +7,6 @@ Added HTOP .config/htop/htoprc that activates a bunch of stuff that isn't turned
   - NOTE: In addition to the dotfile, there's a few commands that you can enter inside of HTOP, that are also very useful:
     - 's' for strace output of any givin PID
     - 'l' list all open files (and open ports!) via LSOF output
-    - ' 
+    - 'c' tag process and all of it's children
+   
+Enjoy!
